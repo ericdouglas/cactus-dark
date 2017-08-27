@@ -2,9 +2,9 @@ nav:
   Home: /
 #   About: /about/
   Writing: /archives/
-  Projects: http://github.com/ericdouglas
+  Projects: https://github.com/ericdouglas
 
-projects_url: http://github.com/ericdouglas
+projects_url: https://github.com/ericdouglas
 
 customize:
     gravatar:

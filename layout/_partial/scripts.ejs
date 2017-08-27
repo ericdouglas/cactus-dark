@@ -17,6 +17,7 @@
 <% if (theme.plugins.disqus_shortname){ %>
     <script type="text/javascript">
         var disqus_shortname = '<%= theme.plugins.disqus_shortname %>';
+        var disqus_url = '<%= config.url + "/" + page.path %>';
 
         (function(){
             var dsq = document.createElement('script');
