@@ -1,21 +1,21 @@
 nav:
   Home: /
-  About: /about/
+#   About: /about/
   Writing: /archives/
-  Projects: http://github.com/probberechts
+  Projects: http://github.com/ericdouglas
 
-projects_url: http://github.com/probberechts
+projects_url: http://github.com/ericdouglas
 
 customize:
     gravatar:
-        email: 
+        email:
     logo:
         enabled: true
         width: 50
         height: 50
         url: /images/logo.png
         gravatar: false
-    favicon: 
+    favicon:
       # eg. generate with http://realfavicongenerator.net/
       desktop:
         url: /images/favicon.ico
@@ -27,21 +27,21 @@ customize:
         url: /images/apple-touch-icon.png
         gravator: false
     social_links:
-        github: http://github.com/probberechts/cactus-dark
-        twitter: /
-        facebook: /
-        linkedin: /
-    show_all_posts: false
+        github: https://github.com/ericdouglas
+        twitter: https://twitter.com/ericdouglas_
+        #facebook: /
+        linkedin: https://br.linkedin.com/in/eric-douglas-81381282/en
+    show_all_posts: true
     post_count: 5
     highlight: rainbow
 
 # RSS
-rss: false
+rss: atom.xml
 
 # Plugins
 plugins:
-    disqus_shortname: # Disqus Comments Shortname
-    google_analytics: UA-86660611-1 # enter the tracking ID for your Google Analytics
+    disqus_shortname: ericdouglas
+    google_analytics: UA-48165601-1 # enter the tracking ID for your Google Analytics
 
 # Miscellaneous
 miscellaneous:
