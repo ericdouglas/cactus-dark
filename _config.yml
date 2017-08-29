@@ -33,7 +33,7 @@ customize:
         linkedin: https://br.linkedin.com/in/eric-douglas-81381282/en
     show_all_posts: true
     post_count: 5
-    highlight: rainbow
+    highlight: ir-black
 
 # RSS
 rss: atom.xml
